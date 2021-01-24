@@ -1,0 +1,34 @@
+8 Custom Window Title
+9 Disable 1rag1 type parameters (Recommended)
+13 Disable Ragexe Filename Check (Recommended)
+19 Enable Title Bar Menu
+23 Enable /who command (Recommended)
+24 Fix Camera Angles (Recommended)
+33 Always Call SelectKoreaClientInfo() (Recommended)
+34 Enable /showname (Recommended)
+35 Read Data Folder First
+36 Read msgstringtable.txt (Recommended)
+38 Remove Gravity Ads (Recommended)
+39 Remove Gravity Logo (Recommended)
+40 Restore Login Window (Recommended)
+41 Disable Nagle Algorithm (Recommended)
+42 Skip Resurrection Button
+44 Translate Client (Recommended)
+46 Use Normal Guild Brackets (Recommended)
+47 Use Ragnarok Icon
+48 Use Plain Text Descriptions (Recommended)
+49 Enable Multiple GRFs (Recommended)
+50 Skip License Screen
+53 Use Ascii on All LangTypes (Recommended)
+64 @ Bug Fix (Recommended)
+65 Load Custom lua file instead of iteminfo*.lub (Recommended)
+72 Ignore Missing Palette Error
+84 Remove Serial Display (Recommended)
+90 Enable DNS Support (Recommended)
+91 Disconnect to Login Window
+97 Cancel to Login Window (Recommended)
+100 Disable Multiple Windows
+207 Resize Font
+213 Disable Help Message on Login (Recommended)
+220 Disable Map Interface
+225 Show Register Button
